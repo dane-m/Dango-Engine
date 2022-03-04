@@ -1,1 +1,1 @@
-Dango Engine
+Dango Engine is developed by Dane Malloy. This project will run entirely on C++. It is intended for windows use as I will be using it as a personal game engine. If feedback is decent I may expand to other platforms.
